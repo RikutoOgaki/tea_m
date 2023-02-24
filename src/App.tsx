@@ -6,7 +6,7 @@ function App() {
   return(
     <Box bg={"#F5F3E4"}overflow={"hidden"}>
       <Flex justifyContent={"flex-end"}position={"relative"}>
-        <Box as='img' src='./img/グループ 5373.png' alt='右画面' position={"absolute"} top={"265px"} right={"-120px"} w={"600px"} h={"400px"} zIndex={"1"}></Box>
+        <Box as='img' src='./img/5373.png' alt='右画面' position={"absolute"} top={"265px"} right={"-120px"} w={"600px"} h={"400px"} zIndex={"1"}></Box>
         <Box as='img' src='./img/グループ 5357.png' alt='右の木' w={"400px"} h={"500px"} position={"absolute"} top={"80px"} right={"130px"} zIndex={"0"}></Box>
         <Box as='img'src='./img/グループ 5375.png'alt='fun'w={"400px"}h={"200px"}position={"absolute"}top={"70px"}right={"30px"}></Box>
       </Flex>
@@ -27,13 +27,13 @@ function App() {
         <Box as='img'src='./img/グループ 5364.png'alt='らいおん'position={"absolute"}top={"50px"}right={"460px"}zIndex={"1"}></Box>
       </Center>
       <Center w={"100%"}>
-        <Box as='img' src='./img/グループ 5372.png' alt='reef'maxW={"none"}w={"200%"}display={"block"}></Box>
+        <Box as='img' src='./img/5372.png' alt='reef'maxW={"none"}w={"200%"}display={"block"}></Box>
       </Center>
       <Center position={"relative"}>
-        <Box as='img'src='./img/グループ 5381.png'w={"1200px"}h={"200px"}marginTop={"50px"}></Box>
+        <Box as='img'src='./img/5381.png'w={"1200px"}h={"200px"}marginTop={"50px"}></Box>
       </Center>
       <Center>
-        <Box as='img'src='./img/子供のお手伝いをサポートするサービス.png'w={"700px"}></Box>
+        <Box as='img'src='./img/kids.png'w={"700px"}></Box>
       </Center>
 
 
@@ -71,7 +71,7 @@ function App() {
             <Box as='img'src='./img/グループ 5392.png'w={"600px"}h={"400px"}position={"absolute"}top={"300px"}right={"130px"}zIndex={"1"}></Box>
           </Flex>
           <Center position={"relative"}>
-            <Box as='img'src='./img/グループ 5555.png'w={"700px"}position={"absolute"}top={"750px"}></Box>
+            <Box as='img'src='./img/5555.png'w={"700px"}position={"absolute"}top={"750px"}></Box>
           </Center>
           <Flex
             justifyContent={"space-between"}
@@ -198,21 +198,21 @@ function App() {
           <Box as='img'src='./img/グループ 5426.png'w={"400px"}position={"absolute"}top={"300px"}></Box>
         </Center>
         <Center position={"relative"}>
-          <Box as='img'src='./img/グループ 5027.png'w={"700px"}position={"absolute"}top={"400px"}></Box>
+          <Box as='img'src='./img/5027.png'w={"700px"}position={"absolute"}top={"400px"}></Box>
         </Center>
         <Center
           position={"relative"}
         >
           <Box
             as='img'
-            src='./img/グループ 5666.png'
+            src='./img/5666.png'
             w={"1400px"}
             position={"absolute"}
             top={"900px"}
           ></Box>
         </Center>
         <Center>
-          <Box as='img'src='./img/グループ 5440.png'h={"1000px"}></Box>
+          <Box as='img'src='./img/5440.png'h={"1000px"}></Box>
         </Center>
       </Box>
 
